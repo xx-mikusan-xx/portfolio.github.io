@@ -1,4 +1,3 @@
-// index.tsx
 import React from 'react';
 import { FaGithub, FaTwitter, FaReact, FaCode, FaJava, FaPython } from 'react-icons/fa';
 import { SiSpringsecurity } from "react-icons/si";
