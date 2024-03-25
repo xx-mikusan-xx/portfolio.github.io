@@ -43,13 +43,19 @@ const Home: React.FC = () => {
       </section>
 
       <section>
+        <h2>works</h2>
+        <h3>ペイントソフトの作成(java)</h3>
+        <h3>冷蔵庫の中身がわかるwebsiteの作成(Next.js )</h3>
+      </section>
+
+      <section>
         <h2>Contact</h2>
         <p>Email: miku71041(あっと)gmail.com</p>
         <div>
           <a href="https://github.com/xx-mikusan-xx" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://twitter.com/tamagodofu01" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/junmaitei" target="_blank" rel="noopener noreferrer">
             <FaTwitter />
           </a>
         </div>
