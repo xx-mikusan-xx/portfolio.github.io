@@ -25,8 +25,8 @@ const Home: React.FC = () => {
         <h2>About Me</h2>
         <p>
           しがない成人男性．<br />
-          中学生の頃に某YouTuberの上げているPCにウイルスを入れる動画に魅入られセキュリティの世界へ． <br />
-          「良いインターネット」を作ることを目標に脆弱性診断，マルウェア解析を行う．
+          中学生の頃に某YouTuberの上げているPCにウイルスを入れる動画に(何故か)魅入られセキュリティの世界へ． <br />
+          「良いインターネット」を作ることを目標に脆弱性診断，マルウェア解析をしています(勉強中ですが...)．
         </p>
       </section>
 
@@ -44,11 +44,7 @@ const Home: React.FC = () => {
 
       <section>
         <h2>Contact</h2>
-        <p>Email: miku71041@gmail.com</p>
-      </section>
-
-      <section>
-        <h2>Connect with Me</h2>
+        <p>Email: miku71041(あっと)gmail.com</p>
         <div>
           <a href="https://github.com/xx-mikusan-xx" target="_blank" rel="noopener noreferrer">
             <FaGithub />
