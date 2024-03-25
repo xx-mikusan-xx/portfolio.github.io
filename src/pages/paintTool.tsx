@@ -13,3 +13,5 @@ const paintTool: React.FC = () => {
         </Container>
     );
 };
+
+export default paintTool;

@@ -13,3 +13,5 @@ const fridge: React.FC = () => {
         </Container>
     );
 };
+
+export default fridge;
