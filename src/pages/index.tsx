@@ -54,6 +54,7 @@ const Home: React.FC = () => {
 
       <section>
         <h2>compete</h2>
+        <ul>
         <li>
           picoCTF2022
           <ul> 
@@ -84,6 +85,7 @@ const Home: React.FC = () => {
             RANK #5
           </ul>
         </li>
+        </ul>
       </section>
 
       <section>
