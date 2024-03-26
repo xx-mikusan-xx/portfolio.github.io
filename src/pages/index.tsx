@@ -58,7 +58,7 @@ const Home: React.FC = () => {
         <li>
           picoCTF2022
           <ul> 
-            Global 2413/7794
+            -Global 2413/7794
           </ul>
         </li>
         <li>
@@ -67,13 +67,13 @@ const Home: React.FC = () => {
         <li>
           ICTSC2022
           <ul>
-            RANK #11
+            -RANK #11
           </ul>
         </li>
         <li>
           picoCTF2023
           <ul>
-            Global 606/6923
+            -Global 606/6923
           </ul>
         </li>
         <li>
@@ -82,7 +82,7 @@ const Home: React.FC = () => {
         <li>
           高専セキュリティコンテスト
           <ul>
-            RANK #5
+            -RANK #5
           </ul>
         </li>
         </ul>
