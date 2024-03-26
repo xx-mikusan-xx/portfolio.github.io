@@ -53,6 +53,40 @@ const Home: React.FC = () => {
       </section>
 
       <section>
+        <h2>compete</h2>
+        <li>
+          picoCTF2022
+          <ul> 
+            Global 2413/7794
+          </ul>
+        </li>
+        <li>
+          高専プロコン2022競技部門
+        </li>
+        <li>
+          ICTSC2022
+          <ul>
+            RANK #11
+          </ul>
+        </li>
+        <li>
+          picoCTF2023
+          <ul>
+            Global 606/6923
+          </ul>
+        </li>
+        <li>
+          高専プロコン2023競技部門
+        </li>
+        <li>
+          高専セキュリティコンテスト
+          <ul>
+            RANK #5
+          </ul>
+        </li>
+      </section>
+
+      <section>
         <h2>Contact</h2>
         <p>Email: miku71041(あっと)gmail.com</p>
         <div>
