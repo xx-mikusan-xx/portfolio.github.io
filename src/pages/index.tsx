@@ -46,10 +46,10 @@ const Home: React.FC = () => {
         <h2>works</h2>
         <h3>ペイントツール</h3>
         <p>Javaでペイントソフトを制作しました．</p>
-        <a href='paintTool.tsx'>詳細</a>
+        <a href='paintTool'>詳細</a>
         <h3>冷蔵庫の中身がわかんない！！！</h3>
         <p>冷蔵庫の中身がわかるwebsiteを制作しました．</p>
-        <a href='paintTool.tsx'>詳細</a>
+        <a href='paintTool'>詳細</a>
       </section>
 
       <section>
