@@ -9,6 +9,9 @@ const paintTool: React.FC = () => {
         <Container>
             <GlobalStyle />
             <Header />
+            <h1>ペイントツールを作った話</h1>
+            <h2>使用技術</h2>
+            <li>Java</li>
             <Footer />
         </Container>
     );
