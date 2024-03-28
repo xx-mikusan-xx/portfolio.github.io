@@ -50,7 +50,7 @@ const Home: React.FC = () => {
         <Link href='paintTool'>詳細</Link>
         <h3>冷蔵庫の中身がわかんない！！！</h3>
         <p>冷蔵庫の中身がわかるwebsiteを制作しました．</p>
-        <Link href='paintTool'>詳細</Link>
+        <Link href='fridge'>詳細</Link>
       </section>
 
       <section>
