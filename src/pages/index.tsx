@@ -6,6 +6,7 @@ import { Container } from '../styles/HomeStyle';
 import GlobalStyle from '../styles/GlobalStyles';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
+import Link from 'next/link';
 
 const Home: React.FC = () => {
   const skills = [
@@ -46,10 +47,10 @@ const Home: React.FC = () => {
         <h2>works</h2>
         <h3>ペイントツール</h3>
         <p>Javaでペイントソフトを制作しました．</p>
-        <a href='paintTool'>詳細</a>
+        <Link href='paintTool'>詳細</Link>
         <h3>冷蔵庫の中身がわかんない！！！</h3>
         <p>冷蔵庫の中身がわかるwebsiteを制作しました．</p>
-        <a href='paintTool'>詳細</a>
+        <Link href='paintTool'>詳細</Link>
       </section>
 
       <section>
