@@ -29,7 +29,7 @@ const GlobalStyle = createGlobalStyle`
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
+    
     .skills-container {
       display: flex;
       flex-wrap: wrap;
@@ -39,11 +39,12 @@ const GlobalStyle = createGlobalStyle`
     .skill-item {
       text-align: center;
       margin: 10px;
-      width: 30%; // 必要に応じて幅を調整してください
+      width: 30%; 
     }
 
     h2 {
       color: #333;
+
     }
 
     p {

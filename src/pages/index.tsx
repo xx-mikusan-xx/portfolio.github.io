@@ -22,16 +22,16 @@ const Home: React.FC = () => {
     <Container>
       <GlobalStyle />
       <Header />
-      <section>
-        <h2>About Me</h2>
+        <section>
+        <h2>#About Me</h2>
         <p>
           しがない成人男性．<br />
           中学生の頃に某YouTuberの上げているPCにウイルスを入れる動画に(何故か)魅入られセキュリティの世界へ． <br />
           「良いインターネット」を作ることを目標に脆弱性診断，マルウェア解析をしています(勉強中ですが...)．
         </p>
-      </section>
-
-      <section>
+        </section>
+      
+        <section>
         <h2>Skills</h2>
         <div className="skills-container">
           {skills.map((skill, index) => (
@@ -41,19 +41,23 @@ const Home: React.FC = () => {
             </div>
           ))}
         </div>
-      </section>
+        </section>
 
-      <section>
+        <section>  
         <h2>works</h2>
+        <section>
         <h3>ペイントツール</h3>
         <p>Javaでペイントソフトを制作しました．</p>
         <Link href='paintTool'>詳細</Link>
+        </section>
+        <section>
         <h3>冷蔵庫の中身がわかんない！！！</h3>
         <p>冷蔵庫の中身がわかるwebsiteを制作しました．</p>
         <Link href='fridge'>詳細</Link>
-      </section>
-
-      <section>
+        </section>
+        </section>
+        
+        <section>
         <h2>compete</h2>
         <ul>
         <li>
@@ -87,9 +91,9 @@ const Home: React.FC = () => {
           </ul>
         </li>
         </ul>
-      </section>
+        </section>
 
-      <section>
+        <section>
         <h2>Contact</h2>
         <p>Email: miku71041(あっと)gmail.com</p>
         <div>
@@ -100,7 +104,7 @@ const Home: React.FC = () => {
             <FaTwitter />
           </a>
         </div>
-      </section>
+        </section>
       <Footer />
     </Container>
   );
