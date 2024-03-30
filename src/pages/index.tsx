@@ -32,7 +32,7 @@ const Home: React.FC = () => {
         </section>
       
         <section>
-        <h2>Skills</h2>
+        <h2>#Skills</h2>
         <div className="skills-container">
           {skills.map((skill, index) => (
             <div key={index} className="skill-item">
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
         </section>
 
         <section>  
-        <h2>works</h2>
+        <h2>#Works</h2>
         <section>
         <h3>ペイントツール</h3>
         <p>Javaでペイントソフトを制作しました．</p>
@@ -58,7 +58,7 @@ const Home: React.FC = () => {
         </section>
         
         <section>
-        <h2>compete</h2>
+        <h2>#Competition</h2>
         <ul>
         <li>
           picoCTF2022
@@ -94,7 +94,7 @@ const Home: React.FC = () => {
         </section>
 
         <section>
-        <h2>Contact</h2>
+        <h2>#Contact</h2>
         <p>Email: miku71041(あっと)gmail.com</p>
         <div>
           <a href="https://github.com/xx-mikusan-xx" target="_blank" rel="noopener noreferrer">
