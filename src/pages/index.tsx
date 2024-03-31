@@ -44,7 +44,7 @@ const Home: React.FC = () => {
         </section>
 
         <section>  
-        <h2>#Works</h2>
+        <h2>#Works(?)</h2>
         <section>
         <h3>ペイントツール</h3>
         <p>Javaでペイントソフトを制作しました．</p>
